@@ -1,4 +1,4 @@
-# webhooks_php_js
+# websockets_php_js
 PHP and JavaScript Web-hooks Stock Application
 
 Step 1 clone the repo
